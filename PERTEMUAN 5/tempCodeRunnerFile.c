@@ -1,0 +1,2 @@
+("Selamat Jalan\n");
+}

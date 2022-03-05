@@ -1,8 +1,8 @@
-### Cara menjalankan Program ini❓
+### Bagaiman Cara menjalankan Program ini❓
 <hr>
-<b>1. COMPILE THIS PROGRAM</b> ⚡
+<b>1. Lakukan Kompilasi Terlebih Dahulu </b> ⚡
 <pre><code> $ gcc -Wall -pedantic -g -0 Main Main.c </code></pre>
-<b>2. RUN THIS PROGRAM ^_^</b>
+<b>2. Jalankan Program ini ^_^</b>
 <pre><code> $ ./Main admin root </code></pre>
 
 

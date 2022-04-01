@@ -11,7 +11,7 @@ int main(int argc, char *argv[]){
     printf("Jumlah Argumen yang dimasukkan %d\n", jumlahArgumen);
 
     /* Jika tidak Memakai perulangan */ 
-    // Menampilkan jumlah argumen yang diberikan
+   // Menampilkan jumlah argumen yang diberikan
     // printf("Isi argumen pertama %s\n", argv[0]);
     // printf("Isi argumen kedua %s\n", argv[1]);
     // printf("Isi argumen ketiga %s\n", argv[2]);
